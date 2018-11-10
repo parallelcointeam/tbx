@@ -1,4 +1,4 @@
-# Go Chat
+# ParallelCoin Troll Box
 
 This is a simple chat web app written in Go
 
